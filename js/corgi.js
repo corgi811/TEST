@@ -1,4 +1,5 @@
-﻿var page;
+﻿//test-git 
+var page;
 $(document).ready(function () {
     if (page == "cat") {
         content();
